@@ -1,4 +1,4 @@
-# Awareness-Konzept
+<h1 style="color:#366092">Awareness-Konzept
 
 **Achtsamkeit im saarländischen Tischfußball**
 
@@ -71,3 +71,5 @@ Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, hab
 - **Lotz, M.** (2023). *Handbuch Achtsamkeit: Das Nachschlagewerk für Veranstaltende, Kollektive, Netzwerke, Organisationen und alle, die an Veränderung interessiert sind.* Safe the Dance.
 
 <span style="color:#366092">---</span>
+</h1>
+
