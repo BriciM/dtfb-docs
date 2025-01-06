@@ -94,7 +94,7 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 1. **Aufnahmegebühr:** € 60,--
 2. **Kaution (auf Sparkonto):** € 100,--
 3. **Jahresbeitrag:**
-   - 1. Mannschaft: € 150,--
+   - I. Mannschaft: € 150,--
    - Je weitere Mannschaft: € 100,--
    - Je Pro-Mannschaft: € 50,--
    - Inaktiver Verein: € 75,--
