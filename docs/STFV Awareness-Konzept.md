@@ -1,4 +1,4 @@
-"![STFV Logo](images/STFVLOGO.png)"
+![STFV Logo](images/STFVLOGO.png)
 
 <h1 style="color:#366092">Awareness-Konzept
 
