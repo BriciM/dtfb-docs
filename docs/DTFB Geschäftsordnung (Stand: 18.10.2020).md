@@ -1,3 +1,5 @@
+![dtfb Logo](images/dtfb-logo.png)
+
 # Geschäftsordnung des DTFB e.V.
 
 **Stand: 18.10.2020**
