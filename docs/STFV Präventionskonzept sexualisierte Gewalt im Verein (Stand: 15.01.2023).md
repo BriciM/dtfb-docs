@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Präventionskonzept sexualisierte Gewalt im Verein
 
 **Stand: 15.01.2023**
