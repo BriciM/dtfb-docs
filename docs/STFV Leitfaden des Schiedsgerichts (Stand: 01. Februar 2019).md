@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Leitfaden des Schiedsgerichts
 
 **des STFV e.V.**
