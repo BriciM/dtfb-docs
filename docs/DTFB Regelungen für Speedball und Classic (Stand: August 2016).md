@@ -1,3 +1,5 @@
+![dtfb Logo](images/dtfb-logo.png)
+
 # Regelungen für Speedball und Classic
 
 **Gültiger Stand: August 2016**
