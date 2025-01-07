@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Datenschutzordnung des STFV e.V.
 
 **Stand: 18.01.2015**
