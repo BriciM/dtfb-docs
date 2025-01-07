@@ -1,3 +1,5 @@
+![dtfb Logo](images/dtfb-logo.png)
+
 # Leitfaden des Schiedsgerichts
 
 **Stand: 27.02.2021**
