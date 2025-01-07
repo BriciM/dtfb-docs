@@ -1,3 +1,5 @@
+![dtfb Logo](images/dtfb-logo.png)
+
 # Schiedsrichterordnung des DTFB e.V.
 
 **Stand: Februar 2024**
