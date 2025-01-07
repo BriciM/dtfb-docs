@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Regelwerk STFV
 
 **Stand: 03.05.2023**
