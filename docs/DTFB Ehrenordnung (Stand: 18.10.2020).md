@@ -1,3 +1,5 @@
+![dtfb Logo](images/dtfb-logo.png)
+
 # Ehrenordnung des DTFB e.V.
 
 **Gültiger Stand: 18.10.2020**
