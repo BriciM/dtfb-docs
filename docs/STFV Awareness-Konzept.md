@@ -1,3 +1,5 @@
+"![STFV Logo](images/STFV LOGO.png)"
+
 <h1 style="color:#366092">Awareness-Konzept
 
 **Achtsamkeit im saarländischen Tischfußball**
