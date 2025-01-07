@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Satzung des STFV e.V.
 
 **Stand: 15.01.2023**
