@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Ordnung der Sport- und Regelkommission (SpoRKom)
 
 **Stand: 28.08.2024**
