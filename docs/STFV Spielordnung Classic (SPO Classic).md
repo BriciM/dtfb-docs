@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Spielordnung Classic (SPO Classic)
 
 **Stand: 03. Mai 2023**
