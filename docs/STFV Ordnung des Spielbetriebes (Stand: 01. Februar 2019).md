@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Ordnung des Spielbetriebes
 
 **Stand: 01. Februar 2019**
