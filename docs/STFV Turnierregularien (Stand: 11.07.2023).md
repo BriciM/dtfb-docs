@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Turnierregularien
 
 **Stand: 11.07.2023**
