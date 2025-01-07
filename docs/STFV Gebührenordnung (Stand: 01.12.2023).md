@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Gebührenordnung des STFV e.V.
 
 **Stand: 01.12.2023**
