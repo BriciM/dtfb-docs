@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Geschäftsordnung des STFV e.V.
 
 **Stand: 03.05.2023**
