@@ -1,3 +1,5 @@
+![dtfb Logo](images/dtfb-logo.png)
+
 # Spielordnung des DTFB e.V.
 
 **Stand: 29. April 2023**
