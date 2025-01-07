@@ -1,3 +1,5 @@
+![STFV Logo](images/STFV-LOGO.png)
+
 # Spielordnung Pro (SPO Pro)
 
 **Stand: 13. September 2023**
