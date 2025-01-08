@@ -1,16 +1,10 @@
-```python
-def hello():
-    print("Hallo Welt!")  # Kommentar wird hervorgehoben
-
-
-
 ![STFV Logo](images/STFV-LOGO.png)
 
-<h1 style="color:#366092">Awareness-Konzept
+Awareness-Konzept
 
 **Achtsamkeit im saarländischen Tischfußball**
 
-<span style="color: blue">---</span>
+---
 
 ## Einleitung
 
@@ -18,7 +12,7 @@ In der saarländischen Tischfußballiga und bei verschiedenen Turnieren treffen 
 
 **Awareness**, übersetzt als „Achtsamkeit“ oder „Bewusstsein“, steht für Sensibilität im Umgang miteinander. Es geht darum, die individuellen Grenzen anderer zu erkennen, zu respektieren und zu wahren. Wann eine Grenze überschritten wird, bestimmt die betroffene Person selbst.
 
-<span style="color:#366092">---</span>
+---
 
 ## Verhaltenskodex
 
@@ -36,7 +30,7 @@ Der Verhaltenskodex bildet die Grundlage für ein respektvolles und sicheres Mit
 3. **Achtsamkeit:**
    - Teilnehmende achten aufeinander und greifen bei grenzüberschreitendem Verhalten ein, indem sie der betroffenen Person Hilfe anbieten oder - falls verfügbar - das Awareness-Team kontaktieren.
 
-<span style="color:#366092">---</span>
+---
 
 ## Unterstützung von Betroffenen
 
@@ -54,13 +48,13 @@ Betroffene können bei Bedarf ein persönliches Gespräch vereinbaren. Der Fokus
 
 Alle Anfragen und Gespräche werden vertraulich behandelt. Informationen werden nur auf ausdrücklichen Wunsch der betroffenen Person an den Vorstand weitergegeben.
 
-<span style="color:#366092">---</span>
+---
 
 ## Spielorte mit Awareness-Konzepten
 
 Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, haben ein eigenes Awareness-Konzept entwickelt.
 
-<span style="color:#366092">---</span>
+---
 
 ## Weitere Hilfsangebote
 
@@ -70,7 +64,7 @@ Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, hab
 - **Telefonseelsorge:** 0800 1110111 ([telefonseelsorge.de](https://telefonseelsorge.de))
 - **Heimwegtelefon:** 030 12074182 ([heimwegtelefon.net](https://heimwegtelefon.net))
 
-<span style="color:#366092">---</span>
+---
 
 ## Weiterführende Literatur
 
@@ -78,6 +72,6 @@ Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, hab
 - **Antwort.** (2021). *Was tun bei sexualisierter Gewalt?: Handbuch für die transformative Arbeit mit gewaltausübenden Personen* (2. Aufl.). Unrast.
 - **Lotz, M.** (2023). *Handbuch Achtsamkeit: Das Nachschlagewerk für Veranstaltende, Kollektive, Netzwerke, Organisationen und alle, die an Veränderung interessiert sind.* Safe the Dance.
 
-<span style="color:#366092">---</span>
-</h1>
+---
+
 
