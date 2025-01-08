@@ -1,10 +1,16 @@
+```python
+def hello():
+    print("Hallo Welt!")  # Kommentar wird hervorgehoben
+
+
+
 ![STFV Logo](images/STFV-LOGO.png)
 
 <h1 style="color:#366092">Awareness-Konzept
 
 **Achtsamkeit im saarländischen Tischfußball**
 
-<span style="color:#366092">---</span>
+<span style="color: blue">---</span>
 
 ## Einleitung
 
