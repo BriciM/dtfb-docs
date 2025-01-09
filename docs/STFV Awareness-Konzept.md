@@ -3,7 +3,7 @@
 Awareness-Konzept
 
 **Achtsamkeit im saarländischen Tischfußball**
-<p class="blue-text">Dieser Text ist blau.</p>
+<p class="blue-text">Test</p>
 ---
 
 ## Einleitung
