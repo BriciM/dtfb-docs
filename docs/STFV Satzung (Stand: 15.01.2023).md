@@ -34,7 +34,7 @@
 ## § 2 Zweck, Ziele und Aufgaben
 
 1. Der STFV e.V. verfolgt ausschließlich und unmittelbar **gemeinnützige Zwecke** im Sinne des Abschnitts „steuerbegünstigte Zwecke“ der Abgabenordnung.
-2. Er ist parteipolitisch, rassisch und religiös neutral und wahrt weltanschauliche Toleranz.
+2. Der STFV ist parteipolitisch neutral und vertritt den Grundsatz religiöser und weltanschaulicher Toleranz sowie der Gleichberechtigung der Geschlechter, auch bei der Besetzung von Ämtern. Der STFV verurteilt jegliche Form von Gewalt und Machtmissbrauch unabhängig davon, ob sie körperlicher, seelischer oder sexualisierter Art ist.
 3. Hauptzwecke sind:
    - Förderung des Tischfußballsports,
    - Jugendarbeit im Bereich Tischfußballsport,
