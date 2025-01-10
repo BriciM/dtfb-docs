@@ -68,5 +68,4 @@ Der **Ehrenbrief** kann in Würdigung besonderer Verdienste um die Förderung de
 
 ---
 
-© Copyright 2020 DTFB
 
